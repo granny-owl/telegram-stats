@@ -8,17 +8,17 @@ Instructions:
 
 Limitations:
 - does NOT filter verb forms (-ing/-ed; counted as different),                      // TO DO
-- complataly skips the words with repeated character (YASSSSS == YAS),              // TO DO
+- completaly skips the words with repeated characters (YASSSSS == YAS),              // TO DO
 
 Methodology:
 - skips photos, videos, sticker and other non-text messages (emoji, punctuation),
 - skips links (youtube, fb etc.),
 - skips words with non-Latin characters;
 - filters capital letters (GOOD == good == gOOd etc.),
-- filters basic plurals and posession (Jane == Janes == Jane's),
+- filters basic plurals and possession (Jane == Janes == Jane's),
 
 Results for each participant:
-- total message count,
+- total text message count,
 - average word length,
 - median word length,
 - number of unique words,
