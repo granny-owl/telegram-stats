@@ -8,7 +8,7 @@ Instructions:
 
 Limitations:
 - does NOT filter verb forms (-ing/-ed; counted as different),                      // TO DO
-- completaly skips the words with repeated characters (YASSSSS == YAS),              // TO DO
+- completely skips the words with repeated characters (YASSSSS == YAS),              // TO DO
 
 Methodology:
 - skips photos, videos, sticker and other non-text messages (emoji, punctuation),
